@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0" version="24.8.0">
   <diagram name="第 1 页" id="cm5Ya6ozmYYqIcnB_r1B">
-    <mxGraphModel dx="1440" dy="2169" grid="1" gridSize="6" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="1284" dy="1964" grid="1" gridSize="6" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -115,7 +115,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="xIv8xeVho2d32qd__GRO-39" value="2. Logger" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;collapsible=0;container=1;recursiveResize=0;strokeWidth=1;autosize=1;spacing=4;" vertex="1" parent="1">
-          <mxGeometry x="258" y="-252" width="123" height="36" as="geometry" />
+          <mxGeometry x="258" y="-252" width="90" height="36" as="geometry" />
         </mxCell>
         <mxCell id="xIv8xeVho2d32qd__GRO-40" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;fontSize=12;startSize=8;endSize=8;" edge="1" target="xIv8xeVho2d32qd__GRO-41" source="xIv8xeVho2d32qd__GRO-39" parent="1">
           <mxGeometry relative="1" as="geometry">
@@ -210,6 +210,81 @@
         </mxCell>
         <mxCell id="xIv8xeVho2d32qd__GRO-76" style="orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.07;entryY=0.54;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;elbow=vertical;" edge="1" parent="1" source="xIv8xeVho2d32qd__GRO-53" target="xIv8xeVho2d32qd__GRO-70">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xIv8xeVho2d32qd__GRO-79" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;fontSize=12;startSize=8;endSize=8;" edge="1" target="xIv8xeVho2d32qd__GRO-80" source="xIv8xeVho2d32qd__GRO-29" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="222" y="-312" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xIv8xeVho2d32qd__GRO-80" value="4. fileOperator" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;collapsible=0;container=1;recursiveResize=0;strokeWidth=1;autosize=1;spacing=4;" vertex="1" parent="1">
+          <mxGeometry x="255" y="72" width="114" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="xIv8xeVho2d32qd__GRO-81" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;fontSize=12;startSize=8;endSize=8;" edge="1" target="xIv8xeVho2d32qd__GRO-82" source="xIv8xeVho2d32qd__GRO-80" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="222" y="-312" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xIv8xeVho2d32qd__GRO-82" value="1. file mover" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;collapsible=0;container=1;recursiveResize=0;strokeWidth=1;autosize=1;spacing=4;" vertex="1" parent="1">
+          <mxGeometry x="408" y="132" width="102" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="xIv8xeVho2d32qd__GRO-83" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;fontSize=12;startSize=8;endSize=8;" edge="1" target="xIv8xeVho2d32qd__GRO-84" source="xIv8xeVho2d32qd__GRO-80" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="369" y="90" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xIv8xeVho2d32qd__GRO-84" value="2. file renamer" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;collapsible=0;container=1;recursiveResize=0;strokeWidth=1;autosize=1;spacing=4;" vertex="1" parent="1">
+          <mxGeometry x="404" y="258" width="114" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="xIv8xeVho2d32qd__GRO-85" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;fontSize=12;startSize=8;endSize=8;" edge="1" target="xIv8xeVho2d32qd__GRO-86" source="xIv8xeVho2d32qd__GRO-82" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="369" y="90" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xIv8xeVho2d32qd__GRO-95" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;shape=link;" edge="1" parent="1" source="xIv8xeVho2d32qd__GRO-86" target="xIv8xeVho2d32qd__GRO-84">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xIv8xeVho2d32qd__GRO-86" value="whether rename in a pattern" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;collapsible=0;container=1;recursiveResize=0;strokeWidth=1;autosize=1;spacing=4;" vertex="1" parent="1">
+          <mxGeometry x="548.5" y="132" width="204" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="xIv8xeVho2d32qd__GRO-89" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;fontSize=12;startSize=8;endSize=8;" edge="1" target="xIv8xeVho2d32qd__GRO-90" source="xIv8xeVho2d32qd__GRO-84" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="369" y="90" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xIv8xeVho2d32qd__GRO-90" value="1. copy and rename" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;collapsible=0;container=1;recursiveResize=0;strokeWidth=1;autosize=1;spacing=4;" vertex="1" parent="1">
+          <mxGeometry x="552" y="258" width="150" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="xIv8xeVho2d32qd__GRO-91" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;fontSize=12;startSize=8;endSize=8;" edge="1" target="xIv8xeVho2d32qd__GRO-92" source="xIv8xeVho2d32qd__GRO-84" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="518" y="276" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xIv8xeVho2d32qd__GRO-92" value="2. Rename directly" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;collapsible=0;container=1;recursiveResize=0;strokeWidth=1;autosize=1;spacing=4;" vertex="1" parent="1">
+          <mxGeometry x="552" y="304" width="144" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="xIv8xeVho2d32qd__GRO-93" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;fontSize=12;startSize=8;endSize=8;" edge="1" target="xIv8xeVho2d32qd__GRO-94" source="xIv8xeVho2d32qd__GRO-86" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="428.5" y="150" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xIv8xeVho2d32qd__GRO-94" value="1. copy" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;collapsible=0;container=1;recursiveResize=0;strokeWidth=1;autosize=1;spacing=4;" vertex="1" parent="1">
+          <mxGeometry x="793.5" y="132" width="82.5" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="xIv8xeVho2d32qd__GRO-96" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;fontSize=12;startSize=8;endSize=8;" edge="1" target="xIv8xeVho2d32qd__GRO-97" source="xIv8xeVho2d32qd__GRO-86" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="753" y="150" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xIv8xeVho2d32qd__GRO-97" value="2. move" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;collapsible=0;container=1;recursiveResize=0;strokeWidth=1;autosize=1;spacing=4;" vertex="1" parent="1">
+          <mxGeometry x="791" y="186" width="78" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="xIv8xeVho2d32qd__GRO-98" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;fontSize=12;startSize=8;endSize=8;" edge="1" target="xIv8xeVho2d32qd__GRO-99" source="xIv8xeVho2d32qd__GRO-86" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="753" y="150" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xIv8xeVho2d32qd__GRO-99" value="3. copy and delete" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;collapsible=0;container=1;recursiveResize=0;strokeWidth=1;autosize=1;spacing=4;" vertex="1" parent="1">
+          <mxGeometry x="791" y="240" width="160" height="36" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
