@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0" version="24.8.0">
   <diagram name="第 1 页" id="cm5Ya6ozmYYqIcnB_r1B">
-    <mxGraphModel dx="1663" dy="2463" grid="1" gridSize="6" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="1440" dy="2169" grid="1" gridSize="6" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -349,6 +349,9 @@
         </mxCell>
         <mxCell id="xIv8xeVho2d32qd__GRO-121" value="2. dir name" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;collapsible=0;container=1;recursiveResize=0;strokeWidth=1;autosize=1;spacing=4;" vertex="1" parent="1">
           <mxGeometry x="714" y="418" width="96" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="xIv8xeVho2d32qd__GRO-122" value="Ext: 5. DSL pattern: Allow user to use dsl language to define actions on the moving &amp;amp;&amp;amp; renaming.&lt;br&gt;&lt;div&gt;For example:&lt;/div&gt;&lt;div&gt;1. IF this(file/dir) NAME MATCH&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;{glob pattern} (this(file/dir))&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;RENAME&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;PRFIX &quot;Hello_&quot;;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2. IF &lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;this(file&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;) CONTENT INCLUDE {&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&quot;best friend&quot;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;} RANGE (0,20) next(file) RENAME {calc(...),&quot;.txt&quot;}&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="174" y="702" width="693" height="198" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
