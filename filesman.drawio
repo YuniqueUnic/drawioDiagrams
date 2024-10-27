@@ -1,357 +1,421 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0" version="24.8.0">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0" version="24.8.1">
   <diagram name="第 1 页" id="cm5Ya6ozmYYqIcnB_r1B">
-    <mxGraphModel dx="1440" dy="2169" grid="1" gridSize="6" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="1842" dy="2172" grid="1" gridSize="6" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="xIv8xeVho2d32qd__GRO-5" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;fontSize=12;startSize=8;endSize=8;" edge="1" source="xIv8xeVho2d32qd__GRO-7" target="xIv8xeVho2d32qd__GRO-8" parent="1">
+        <mxCell id="xIv8xeVho2d32qd__GRO-5" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;fontSize=12;startSize=8;endSize=8;" parent="1" source="xIv8xeVho2d32qd__GRO-7" target="xIv8xeVho2d32qd__GRO-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xIv8xeVho2d32qd__GRO-6" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;fontSize=12;startSize=8;endSize=8;" edge="1" source="xIv8xeVho2d32qd__GRO-7" target="xIv8xeVho2d32qd__GRO-9" parent="1">
+        <mxCell id="xIv8xeVho2d32qd__GRO-6" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;fontSize=12;startSize=8;endSize=8;" parent="1" source="xIv8xeVho2d32qd__GRO-7" target="xIv8xeVho2d32qd__GRO-9" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="44" y="-460" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <UserObject label="filesman" treeRoot="1" id="xIv8xeVho2d32qd__GRO-7">
-          <mxCell style="ellipse;whiteSpace=wrap;html=1;align=center;collapsible=0;container=1;recursiveResize=0;" vertex="1" parent="1">
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;align=center;collapsible=0;container=1;recursiveResize=0;" parent="1" vertex="1">
             <mxGeometry x="-168" y="-450" width="100" height="40" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="xIv8xeVho2d32qd__GRO-8" value="Situations:" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];strokeColor=#000000;fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;collapsible=0;container=1;recursiveResize=0;autosize=1;" vertex="1" parent="1">
+        <mxCell id="xIv8xeVho2d32qd__GRO-8" value="Situations:" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];strokeColor=#000000;fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;collapsible=0;container=1;recursiveResize=0;autosize=1;" parent="1" vertex="1">
           <mxGeometry x="54" y="-468" width="90" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="xIv8xeVho2d32qd__GRO-9" value="Task:" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;collapsible=0;container=1;recursiveResize=0;strokeWidth=1;autosize=1;spacing=4;" vertex="1" parent="1">
+        <mxCell id="xIv8xeVho2d32qd__GRO-9" value="Task:" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;collapsible=0;container=1;recursiveResize=0;strokeWidth=1;autosize=1;spacing=4;" parent="1" vertex="1">
           <mxGeometry x="-33" y="-330" width="60" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="xIv8xeVho2d32qd__GRO-16" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="xIv8xeVho2d32qd__GRO-15" target="xIv8xeVho2d32qd__GRO-7">
+        <mxCell id="xIv8xeVho2d32qd__GRO-16" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" parent="1" source="xIv8xeVho2d32qd__GRO-15" target="xIv8xeVho2d32qd__GRO-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xIv8xeVho2d32qd__GRO-15" value="A muti-threads tools for moving and renaming files/dirs" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="xIv8xeVho2d32qd__GRO-15" value="A muti-threads tools for moving and renaming files/dirs" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-228" y="-558" width="214" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xIv8xeVho2d32qd__GRO-17" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;fontSize=12;startSize=8;endSize=8;" edge="1" target="xIv8xeVho2d32qd__GRO-18" source="xIv8xeVho2d32qd__GRO-8" parent="1">
+        <mxCell id="xIv8xeVho2d32qd__GRO-17" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;fontSize=12;startSize=8;endSize=8;" parent="1" source="xIv8xeVho2d32qd__GRO-8" target="xIv8xeVho2d32qd__GRO-18" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-68" y="-430" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xIv8xeVho2d32qd__GRO-18" value="2. Making a ease to use tool to show the result and help more people" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];strokeColor=#000000;fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;collapsible=0;container=1;recursiveResize=0;autosize=1;" vertex="1" parent="1">
+        <mxCell id="xIv8xeVho2d32qd__GRO-18" value="2. Making a ease to use tool to show the result and help more people" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];strokeColor=#000000;fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;collapsible=0;container=1;recursiveResize=0;autosize=1;" parent="1" vertex="1">
           <mxGeometry x="216" y="-468" width="438" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="xIv8xeVho2d32qd__GRO-19" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;fontSize=12;startSize=8;endSize=8;" edge="1" target="xIv8xeVho2d32qd__GRO-20" source="xIv8xeVho2d32qd__GRO-8" parent="1">
+        <mxCell id="xIv8xeVho2d32qd__GRO-19" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;fontSize=12;startSize=8;endSize=8;" parent="1" source="xIv8xeVho2d32qd__GRO-8" target="xIv8xeVho2d32qd__GRO-20" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="144" y="-432" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xIv8xeVho2d32qd__GRO-20" value="1. Study the async/thread usage of Rust" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];strokeColor=#000000;fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;collapsible=0;container=1;recursiveResize=0;autosize=1;" vertex="1" parent="1">
+        <mxCell id="xIv8xeVho2d32qd__GRO-20" value="1. Study the async/thread usage of Rust" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];strokeColor=#000000;fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;collapsible=0;container=1;recursiveResize=0;autosize=1;" parent="1" vertex="1">
           <mxGeometry x="174" y="-504" width="344" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="xIv8xeVho2d32qd__GRO-21" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;fontSize=12;startSize=8;endSize=8;" edge="1" target="xIv8xeVho2d32qd__GRO-22" source="xIv8xeVho2d32qd__GRO-8" parent="1">
+        <mxCell id="xIv8xeVho2d32qd__GRO-21" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;fontSize=12;startSize=8;endSize=8;" parent="1" source="xIv8xeVho2d32qd__GRO-8" target="xIv8xeVho2d32qd__GRO-22" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="144" y="-432" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xIv8xeVho2d32qd__GRO-22" value="3. Trying to study the SQLite and Tauri which would create a UI after building the cmd tool" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];strokeColor=#000000;fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;collapsible=0;container=1;recursiveResize=0;autosize=1;" vertex="1" parent="1">
+        <mxCell id="xIv8xeVho2d32qd__GRO-22" value="3. Trying to study the SQLite and Tauri which would create a UI after building the cmd tool" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];strokeColor=#000000;fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;collapsible=0;container=1;recursiveResize=0;autosize=1;" parent="1" vertex="1">
           <mxGeometry x="198" y="-432" width="593" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="xIv8xeVho2d32qd__GRO-23" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;fontSize=12;startSize=8;endSize=8;" edge="1" target="xIv8xeVho2d32qd__GRO-24" source="xIv8xeVho2d32qd__GRO-7" parent="1">
+        <mxCell id="xIv8xeVho2d32qd__GRO-23" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;fontSize=12;startSize=8;endSize=8;" parent="1" source="xIv8xeVho2d32qd__GRO-7" target="xIv8xeVho2d32qd__GRO-24" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-68" y="-430" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xIv8xeVho2d32qd__GRO-24" value="Sub Topic" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;collapsible=0;container=1;recursiveResize=0;strokeWidth=1;autosize=1;spacing=4;" vertex="1" parent="1">
+        <mxCell id="xIv8xeVho2d32qd__GRO-24" value="Sub Topic" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;collapsible=0;container=1;recursiveResize=0;strokeWidth=1;autosize=1;spacing=4;" parent="1" vertex="1">
           <mxGeometry x="-48" y="-180" width="90" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="xIv8xeVho2d32qd__GRO-25" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;fontSize=12;startSize=8;endSize=8;" edge="1" target="xIv8xeVho2d32qd__GRO-26" source="xIv8xeVho2d32qd__GRO-7" parent="1">
+        <mxCell id="xIv8xeVho2d32qd__GRO-25" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;fontSize=12;startSize=8;endSize=8;" parent="1" source="xIv8xeVho2d32qd__GRO-7" target="xIv8xeVho2d32qd__GRO-26" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-68" y="-430" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xIv8xeVho2d32qd__GRO-26" value="Sub Topic" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;collapsible=0;container=1;recursiveResize=0;strokeWidth=1;autosize=1;spacing=4;" vertex="1" parent="1">
+        <mxCell id="xIv8xeVho2d32qd__GRO-26" value="Sub Topic" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;collapsible=0;container=1;recursiveResize=0;strokeWidth=1;autosize=1;spacing=4;" parent="1" vertex="1">
           <mxGeometry x="-48" y="6" width="90" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="xIv8xeVho2d32qd__GRO-28" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;fontSize=12;startSize=8;endSize=8;" edge="1" target="xIv8xeVho2d32qd__GRO-29" source="xIv8xeVho2d32qd__GRO-9" parent="1">
+        <mxCell id="xIv8xeVho2d32qd__GRO-28" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;fontSize=12;startSize=8;endSize=8;" parent="1" source="xIv8xeVho2d32qd__GRO-9" target="xIv8xeVho2d32qd__GRO-29" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-68" y="-430" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xIv8xeVho2d32qd__GRO-29" value="1. Create the cmd tool" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;collapsible=0;container=1;recursiveResize=0;strokeWidth=1;autosize=1;spacing=4;" vertex="1" parent="1">
+        <mxCell id="xIv8xeVho2d32qd__GRO-29" value="1. Create the cmd tool" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;collapsible=0;container=1;recursiveResize=0;strokeWidth=1;autosize=1;spacing=4;" parent="1" vertex="1">
           <mxGeometry x="54" y="-330" width="168" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="xIv8xeVho2d32qd__GRO-30" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;fontSize=12;startSize=8;endSize=8;" edge="1" target="xIv8xeVho2d32qd__GRO-31" source="xIv8xeVho2d32qd__GRO-29" parent="1">
+        <mxCell id="xIv8xeVho2d32qd__GRO-30" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;fontSize=12;startSize=8;endSize=8;" parent="1" source="xIv8xeVho2d32qd__GRO-29" target="xIv8xeVho2d32qd__GRO-31" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-57" y="-312" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xIv8xeVho2d32qd__GRO-31" value="1. Iterate the target dir and show all files with pattern set by user" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;collapsible=0;container=1;recursiveResize=0;strokeWidth=1;autosize=1;spacing=4;" vertex="1" parent="1">
+        <mxCell id="xIv8xeVho2d32qd__GRO-31" value="1. Iterate the target dir and show all files with pattern set by user" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;collapsible=0;container=1;recursiveResize=0;strokeWidth=1;autosize=1;spacing=4;" parent="1" vertex="1">
           <mxGeometry x="258" y="-330" width="426" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="xIv8xeVho2d32qd__GRO-32" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;fontSize=12;startSize=8;endSize=8;" edge="1" target="xIv8xeVho2d32qd__GRO-33" source="xIv8xeVho2d32qd__GRO-31" parent="1">
+        <mxCell id="xIv8xeVho2d32qd__GRO-32" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;fontSize=12;startSize=8;endSize=8;" parent="1" source="xIv8xeVho2d32qd__GRO-31" target="xIv8xeVho2d32qd__GRO-33" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="195" y="-312" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xIv8xeVho2d32qd__GRO-33" value="1. Iterate target path and save all dirs/files in order&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;collapsible=0;container=1;recursiveResize=0;strokeWidth=1;autosize=1;spacing=4;" vertex="1" parent="1">
+        <mxCell id="xIv8xeVho2d32qd__GRO-33" value="1. Iterate target path and save all dirs/files in order&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;collapsible=0;container=1;recursiveResize=0;strokeWidth=1;autosize=1;spacing=4;" parent="1" vertex="1">
           <mxGeometry x="783" y="-330" width="339" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="xIv8xeVho2d32qd__GRO-34" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;fontSize=12;startSize=8;endSize=8;" edge="1" target="xIv8xeVho2d32qd__GRO-35" source="xIv8xeVho2d32qd__GRO-31" parent="1">
+        <mxCell id="xIv8xeVho2d32qd__GRO-34" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;fontSize=12;startSize=8;endSize=8;" parent="1" source="xIv8xeVho2d32qd__GRO-31" target="xIv8xeVho2d32qd__GRO-35" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="684" y="-312" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xIv8xeVho2d32qd__GRO-35" value="2. pattern parser" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;collapsible=0;container=1;recursiveResize=0;strokeWidth=1;autosize=1;spacing=4;" vertex="1" parent="1">
+        <mxCell id="xIv8xeVho2d32qd__GRO-35" value="2. pattern parser" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;collapsible=0;container=1;recursiveResize=0;strokeWidth=1;autosize=1;spacing=4;" parent="1" vertex="1">
           <mxGeometry x="783" y="-276" width="132" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="xIv8xeVho2d32qd__GRO-36" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;fontSize=12;startSize=8;endSize=8;" edge="1" target="xIv8xeVho2d32qd__GRO-37" source="xIv8xeVho2d32qd__GRO-31" parent="1">
+        <mxCell id="xIv8xeVho2d32qd__GRO-36" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;fontSize=12;startSize=8;endSize=8;" parent="1" source="xIv8xeVho2d32qd__GRO-31" target="xIv8xeVho2d32qd__GRO-37" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="684" y="-312" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xIv8xeVho2d32qd__GRO-37" value="3. Display all the info to user" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;collapsible=0;container=1;recursiveResize=0;strokeWidth=1;autosize=1;spacing=4;" vertex="1" parent="1">
+        <mxCell id="xIv8xeVho2d32qd__GRO-37" value="3. Display all the info to user" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;collapsible=0;container=1;recursiveResize=0;strokeWidth=1;autosize=1;spacing=4;" parent="1" vertex="1">
           <mxGeometry x="783" y="-222" width="216" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="xIv8xeVho2d32qd__GRO-38" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;fontSize=12;startSize=8;endSize=8;" edge="1" target="xIv8xeVho2d32qd__GRO-39" source="xIv8xeVho2d32qd__GRO-29" parent="1">
+        <mxCell id="xIv8xeVho2d32qd__GRO-38" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;fontSize=12;startSize=8;endSize=8;" parent="1" source="xIv8xeVho2d32qd__GRO-29" target="xIv8xeVho2d32qd__GRO-39" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="222" y="-312" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xIv8xeVho2d32qd__GRO-39" value="2. Logger" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;collapsible=0;container=1;recursiveResize=0;strokeWidth=1;autosize=1;spacing=4;" vertex="1" parent="1">
+        <mxCell id="xIv8xeVho2d32qd__GRO-39" value="2. Logger" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;collapsible=0;container=1;recursiveResize=0;strokeWidth=1;autosize=1;spacing=4;" parent="1" vertex="1">
           <mxGeometry x="258" y="-252" width="90" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="xIv8xeVho2d32qd__GRO-40" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;fontSize=12;startSize=8;endSize=8;" edge="1" target="xIv8xeVho2d32qd__GRO-41" source="xIv8xeVho2d32qd__GRO-39" parent="1">
+        <mxCell id="xIv8xeVho2d32qd__GRO-40" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;fontSize=12;startSize=8;endSize=8;" parent="1" source="xIv8xeVho2d32qd__GRO-39" target="xIv8xeVho2d32qd__GRO-41" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="222" y="-312" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xIv8xeVho2d32qd__GRO-41" value="1. logging on terminal" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;collapsible=0;container=1;recursiveResize=0;strokeWidth=1;autosize=1;spacing=4;" vertex="1" parent="1">
+        <mxCell id="xIv8xeVho2d32qd__GRO-41" value="1. logging on terminal" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;collapsible=0;container=1;recursiveResize=0;strokeWidth=1;autosize=1;spacing=4;" parent="1" vertex="1">
           <mxGeometry x="402" y="-252" width="162" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="xIv8xeVho2d32qd__GRO-42" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;fontSize=12;startSize=8;endSize=8;" edge="1" target="xIv8xeVho2d32qd__GRO-43" source="xIv8xeVho2d32qd__GRO-39" parent="1">
+        <mxCell id="xIv8xeVho2d32qd__GRO-42" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;fontSize=12;startSize=8;endSize=8;" parent="1" source="xIv8xeVho2d32qd__GRO-39" target="xIv8xeVho2d32qd__GRO-43" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="381" y="-234" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xIv8xeVho2d32qd__GRO-43" value="2. logging into file" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;collapsible=0;container=1;recursiveResize=0;strokeWidth=1;autosize=1;spacing=4;" vertex="1" parent="1">
+        <mxCell id="xIv8xeVho2d32qd__GRO-43" value="2. logging into file" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;collapsible=0;container=1;recursiveResize=0;strokeWidth=1;autosize=1;spacing=4;" parent="1" vertex="1">
           <mxGeometry x="402" y="-206" width="126" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="xIv8xeVho2d32qd__GRO-44" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;fontSize=12;startSize=8;endSize=8;" edge="1" target="xIv8xeVho2d32qd__GRO-45" source="xIv8xeVho2d32qd__GRO-43" parent="1">
+        <mxCell id="xIv8xeVho2d32qd__GRO-44" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;fontSize=12;startSize=8;endSize=8;" parent="1" source="xIv8xeVho2d32qd__GRO-43" target="xIv8xeVho2d32qd__GRO-45" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="381" y="-234" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xIv8xeVho2d32qd__GRO-45" value="1. txt file?" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;collapsible=0;container=1;recursiveResize=0;strokeWidth=1;autosize=1;spacing=4;" vertex="1" parent="1">
+        <mxCell id="xIv8xeVho2d32qd__GRO-45" value="1. txt file?" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;collapsible=0;container=1;recursiveResize=0;strokeWidth=1;autosize=1;spacing=4;" parent="1" vertex="1">
           <mxGeometry x="586" y="-206" width="90" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="xIv8xeVho2d32qd__GRO-46" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;fontSize=12;startSize=8;endSize=8;" edge="1" target="xIv8xeVho2d32qd__GRO-47" source="xIv8xeVho2d32qd__GRO-43" parent="1">
+        <mxCell id="xIv8xeVho2d32qd__GRO-46" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;fontSize=12;startSize=8;endSize=8;" parent="1" source="xIv8xeVho2d32qd__GRO-43" target="xIv8xeVho2d32qd__GRO-47" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="528" y="-188" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xIv8xeVho2d32qd__GRO-47" value="2. database(SQLite/Postgresql)" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;collapsible=0;container=1;recursiveResize=0;strokeWidth=1;autosize=1;spacing=4;" vertex="1" parent="1">
+        <mxCell id="xIv8xeVho2d32qd__GRO-47" value="2. database(SQLite/Postgresql)" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;collapsible=0;container=1;recursiveResize=0;strokeWidth=1;autosize=1;spacing=4;" parent="1" vertex="1">
           <mxGeometry x="586" y="-156" width="224" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="xIv8xeVho2d32qd__GRO-48" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;fontSize=12;startSize=8;endSize=8;" edge="1" target="xIv8xeVho2d32qd__GRO-49" source="xIv8xeVho2d32qd__GRO-29" parent="1">
+        <mxCell id="xIv8xeVho2d32qd__GRO-48" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;fontSize=12;startSize=8;endSize=8;" parent="1" source="xIv8xeVho2d32qd__GRO-29" target="xIv8xeVho2d32qd__GRO-49" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="222" y="-312" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xIv8xeVho2d32qd__GRO-49" value="3. IOoperator" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;collapsible=0;container=1;recursiveResize=0;strokeWidth=1;autosize=1;spacing=4;" vertex="1" parent="1">
+        <mxCell id="xIv8xeVho2d32qd__GRO-49" value="3. IOoperator" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;collapsible=0;container=1;recursiveResize=0;strokeWidth=1;autosize=1;spacing=4;" parent="1" vertex="1">
           <mxGeometry x="258" y="-170" width="108" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="xIv8xeVho2d32qd__GRO-50" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;fontSize=12;startSize=8;endSize=8;" edge="1" target="xIv8xeVho2d32qd__GRO-53" source="xIv8xeVho2d32qd__GRO-49" parent="1">
+        <mxCell id="xIv8xeVho2d32qd__GRO-50" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;fontSize=12;startSize=8;endSize=8;" parent="1" source="xIv8xeVho2d32qd__GRO-49" target="xIv8xeVho2d32qd__GRO-53" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="235" y="-312" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xIv8xeVho2d32qd__GRO-67" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="xIv8xeVho2d32qd__GRO-53" target="xIv8xeVho2d32qd__GRO-60">
+        <mxCell id="xIv8xeVho2d32qd__GRO-67" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="xIv8xeVho2d32qd__GRO-53" target="xIv8xeVho2d32qd__GRO-60" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xIv8xeVho2d32qd__GRO-53" value="1. stdin" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;collapsible=0;container=1;recursiveResize=0;strokeWidth=1;autosize=1;spacing=4;" vertex="1" parent="1">
+        <mxCell id="xIv8xeVho2d32qd__GRO-53" value="1. stdin" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;collapsible=0;container=1;recursiveResize=0;strokeWidth=1;autosize=1;spacing=4;" parent="1" vertex="1">
           <mxGeometry x="454.5" y="-96" width="73.5" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="xIv8xeVho2d32qd__GRO-55" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;fontSize=12;startSize=8;endSize=8;" edge="1" target="xIv8xeVho2d32qd__GRO-56" source="xIv8xeVho2d32qd__GRO-49" parent="1">
+        <mxCell id="xIv8xeVho2d32qd__GRO-55" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;fontSize=12;startSize=8;endSize=8;" parent="1" source="xIv8xeVho2d32qd__GRO-49" target="xIv8xeVho2d32qd__GRO-56" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="388" y="-108" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xIv8xeVho2d32qd__GRO-69" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="xIv8xeVho2d32qd__GRO-56" target="xIv8xeVho2d32qd__GRO-60">
+        <mxCell id="xIv8xeVho2d32qd__GRO-69" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="xIv8xeVho2d32qd__GRO-56" target="xIv8xeVho2d32qd__GRO-60" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xIv8xeVho2d32qd__GRO-77" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="xIv8xeVho2d32qd__GRO-56" target="xIv8xeVho2d32qd__GRO-75">
+        <mxCell id="xIv8xeVho2d32qd__GRO-77" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="xIv8xeVho2d32qd__GRO-56" target="xIv8xeVho2d32qd__GRO-75" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xIv8xeVho2d32qd__GRO-56" value="2. stdout" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;collapsible=0;container=1;recursiveResize=0;strokeWidth=1;autosize=1;spacing=4;" vertex="1" parent="1">
+        <mxCell id="xIv8xeVho2d32qd__GRO-56" value="2. stdout" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;collapsible=0;container=1;recursiveResize=0;strokeWidth=1;autosize=1;spacing=4;" parent="1" vertex="1">
           <mxGeometry x="448.5" y="42" width="84" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="xIv8xeVho2d32qd__GRO-65" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="xIv8xeVho2d32qd__GRO-65" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="540" y="-72" width="159" height="126" as="geometry" />
         </mxCell>
-        <mxCell id="xIv8xeVho2d32qd__GRO-58" value="1. terminal" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;collapsible=0;container=1;recursiveResize=0;strokeWidth=1;autosize=1;spacing=4;" vertex="1" parent="xIv8xeVho2d32qd__GRO-65">
+        <mxCell id="xIv8xeVho2d32qd__GRO-58" value="1. terminal" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;collapsible=0;container=1;recursiveResize=0;strokeWidth=1;autosize=1;spacing=4;" parent="xIv8xeVho2d32qd__GRO-65" vertex="1">
           <mxGeometry x="12" width="90" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="xIv8xeVho2d32qd__GRO-60" value="2. file" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;collapsible=0;container=1;recursiveResize=0;strokeWidth=1;autosize=1;spacing=4;" vertex="1" parent="xIv8xeVho2d32qd__GRO-65">
+        <mxCell id="xIv8xeVho2d32qd__GRO-60" value="2. file" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;collapsible=0;container=1;recursiveResize=0;strokeWidth=1;autosize=1;spacing=4;" parent="xIv8xeVho2d32qd__GRO-65" vertex="1">
           <mxGeometry x="12" y="46" width="60" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="xIv8xeVho2d32qd__GRO-62" value="3. Stream(X)" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;collapsible=0;container=1;recursiveResize=0;strokeWidth=1;autosize=1;spacing=4;" vertex="1" parent="xIv8xeVho2d32qd__GRO-65">
+        <mxCell id="xIv8xeVho2d32qd__GRO-62" value="3. Stream(X)" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;collapsible=0;container=1;recursiveResize=0;strokeWidth=1;autosize=1;spacing=4;" parent="xIv8xeVho2d32qd__GRO-65" vertex="1">
           <mxGeometry x="12" y="90" width="108" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="xIv8xeVho2d32qd__GRO-70" value="reader" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;collapsible=0;container=1;recursiveResize=0;strokeWidth=1;autosize=1;spacing=4;" vertex="1" parent="1">
+        <mxCell id="xIv8xeVho2d32qd__GRO-70" value="reader" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;collapsible=0;container=1;recursiveResize=0;strokeWidth=1;autosize=1;spacing=4;" parent="1" vertex="1">
           <mxGeometry x="759" y="-102" width="66" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="xIv8xeVho2d32qd__GRO-71" value="" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xIv8xeVho2d32qd__GRO-60" target="xIv8xeVho2d32qd__GRO-70">
+        <mxCell id="xIv8xeVho2d32qd__GRO-71" value="" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="xIv8xeVho2d32qd__GRO-60" target="xIv8xeVho2d32qd__GRO-70" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xIv8xeVho2d32qd__GRO-75" value="writer" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;collapsible=0;container=1;recursiveResize=0;strokeWidth=1;autosize=1;spacing=4;" vertex="1" parent="1">
+        <mxCell id="xIv8xeVho2d32qd__GRO-75" value="writer" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;collapsible=0;container=1;recursiveResize=0;strokeWidth=1;autosize=1;spacing=4;" parent="1" vertex="1">
           <mxGeometry x="759" y="42" width="60" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="xIv8xeVho2d32qd__GRO-74" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xIv8xeVho2d32qd__GRO-60" target="xIv8xeVho2d32qd__GRO-75">
+        <mxCell id="xIv8xeVho2d32qd__GRO-74" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="xIv8xeVho2d32qd__GRO-60" target="xIv8xeVho2d32qd__GRO-75" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="720" y="24" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xIv8xeVho2d32qd__GRO-76" style="orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.07;entryY=0.54;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;elbow=vertical;" edge="1" parent="1" source="xIv8xeVho2d32qd__GRO-53" target="xIv8xeVho2d32qd__GRO-70">
+        <mxCell id="xIv8xeVho2d32qd__GRO-76" style="orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.07;entryY=0.54;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;elbow=vertical;" parent="1" source="xIv8xeVho2d32qd__GRO-53" target="xIv8xeVho2d32qd__GRO-70" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xIv8xeVho2d32qd__GRO-79" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;fontSize=12;startSize=8;endSize=8;" edge="1" target="xIv8xeVho2d32qd__GRO-80" source="xIv8xeVho2d32qd__GRO-29" parent="1">
+        <mxCell id="xIv8xeVho2d32qd__GRO-79" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;fontSize=12;startSize=8;endSize=8;" parent="1" source="xIv8xeVho2d32qd__GRO-29" target="xIv8xeVho2d32qd__GRO-80" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="222" y="-312" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xIv8xeVho2d32qd__GRO-80" value="4. fileOperator" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;collapsible=0;container=1;recursiveResize=0;strokeWidth=1;autosize=1;spacing=4;" vertex="1" parent="1">
+        <mxCell id="xIv8xeVho2d32qd__GRO-80" value="4. fileOperator" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;collapsible=0;container=1;recursiveResize=0;strokeWidth=1;autosize=1;spacing=4;" parent="1" vertex="1">
           <mxGeometry x="255" y="72" width="114" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="xIv8xeVho2d32qd__GRO-81" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;fontSize=12;startSize=8;endSize=8;" edge="1" target="xIv8xeVho2d32qd__GRO-82" source="xIv8xeVho2d32qd__GRO-80" parent="1">
+        <mxCell id="xIv8xeVho2d32qd__GRO-81" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;fontSize=12;startSize=8;endSize=8;" parent="1" source="xIv8xeVho2d32qd__GRO-80" target="xIv8xeVho2d32qd__GRO-82" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="222" y="-312" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xIv8xeVho2d32qd__GRO-82" value="1. file mover" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;collapsible=0;container=1;recursiveResize=0;strokeWidth=1;autosize=1;spacing=4;" vertex="1" parent="1">
-          <mxGeometry x="408" y="132" width="102" height="36" as="geometry" />
+        <mxCell id="xIv8xeVho2d32qd__GRO-82" value="2. file mover" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;collapsible=0;container=1;recursiveResize=0;strokeWidth=1;autosize=1;spacing=4;" parent="1" vertex="1">
+          <mxGeometry x="424.5" y="372" width="102" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="xIv8xeVho2d32qd__GRO-83" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;fontSize=12;startSize=8;endSize=8;" edge="1" target="xIv8xeVho2d32qd__GRO-84" source="xIv8xeVho2d32qd__GRO-80" parent="1">
+        <mxCell id="xIv8xeVho2d32qd__GRO-83" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;fontSize=12;startSize=8;endSize=8;" parent="1" source="xIv8xeVho2d32qd__GRO-80" target="xIv8xeVho2d32qd__GRO-84" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="369" y="90" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xIv8xeVho2d32qd__GRO-84" value="2. file renamer" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;collapsible=0;container=1;recursiveResize=0;strokeWidth=1;autosize=1;spacing=4;" vertex="1" parent="1">
-          <mxGeometry x="404" y="258" width="114" height="36" as="geometry" />
+        <mxCell id="xIv8xeVho2d32qd__GRO-84" value="3. file renamer" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;collapsible=0;container=1;recursiveResize=0;strokeWidth=1;autosize=1;spacing=4;" parent="1" vertex="1">
+          <mxGeometry x="420.5" y="498" width="114" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="xIv8xeVho2d32qd__GRO-85" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;fontSize=12;startSize=8;endSize=8;" edge="1" target="xIv8xeVho2d32qd__GRO-86" source="xIv8xeVho2d32qd__GRO-82" parent="1">
+        <mxCell id="xIv8xeVho2d32qd__GRO-85" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;fontSize=12;startSize=8;endSize=8;" parent="1" source="xIv8xeVho2d32qd__GRO-82" target="xIv8xeVho2d32qd__GRO-86" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="369" y="90" as="sourcePoint" />
+            <mxPoint x="385.5" y="330" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xIv8xeVho2d32qd__GRO-95" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;shape=link;" edge="1" parent="1" source="xIv8xeVho2d32qd__GRO-86" target="xIv8xeVho2d32qd__GRO-84">
+        <mxCell id="xIv8xeVho2d32qd__GRO-95" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;shape=link;" parent="1" source="xIv8xeVho2d32qd__GRO-86" target="xIv8xeVho2d32qd__GRO-84" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xIv8xeVho2d32qd__GRO-86" value="whether rename in a pattern" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;collapsible=0;container=1;recursiveResize=0;strokeWidth=1;autosize=1;spacing=4;" vertex="1" parent="1">
-          <mxGeometry x="548.5" y="132" width="204" height="36" as="geometry" />
+        <mxCell id="xIv8xeVho2d32qd__GRO-86" value="whether rename in a pattern" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;collapsible=0;container=1;recursiveResize=0;strokeWidth=1;autosize=1;spacing=4;" parent="1" vertex="1">
+          <mxGeometry x="565" y="372" width="204" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="xIv8xeVho2d32qd__GRO-89" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;fontSize=12;startSize=8;endSize=8;" edge="1" target="xIv8xeVho2d32qd__GRO-90" source="xIv8xeVho2d32qd__GRO-84" parent="1">
+        <mxCell id="xIv8xeVho2d32qd__GRO-89" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;fontSize=12;startSize=8;endSize=8;" parent="1" source="xIv8xeVho2d32qd__GRO-84" target="xIv8xeVho2d32qd__GRO-90" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="385.5" y="330" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xIv8xeVho2d32qd__GRO-90" value="1. copy and rename" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;collapsible=0;container=1;recursiveResize=0;strokeWidth=1;autosize=1;spacing=4;" parent="1" vertex="1">
+          <mxGeometry x="568.5" y="498" width="150" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="xIv8xeVho2d32qd__GRO-91" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;fontSize=12;startSize=8;endSize=8;" parent="1" source="xIv8xeVho2d32qd__GRO-84" target="xIv8xeVho2d32qd__GRO-92" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="534.5" y="516" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xIv8xeVho2d32qd__GRO-92" value="2. Rename directly" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;collapsible=0;container=1;recursiveResize=0;strokeWidth=1;autosize=1;spacing=4;" parent="1" vertex="1">
+          <mxGeometry x="568.5" y="544" width="144" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="xIv8xeVho2d32qd__GRO-93" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;fontSize=12;startSize=8;endSize=8;" parent="1" source="xIv8xeVho2d32qd__GRO-86" target="xIv8xeVho2d32qd__GRO-94" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="445" y="390" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xIv8xeVho2d32qd__GRO-94" value="1. copy" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;collapsible=0;container=1;recursiveResize=0;strokeWidth=1;autosize=1;spacing=4;" parent="1" vertex="1">
+          <mxGeometry x="810" y="372" width="82.5" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="xIv8xeVho2d32qd__GRO-96" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;fontSize=12;startSize=8;endSize=8;" parent="1" source="xIv8xeVho2d32qd__GRO-86" target="xIv8xeVho2d32qd__GRO-97" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="769.5" y="390" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xIv8xeVho2d32qd__GRO-97" value="2. move" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;collapsible=0;container=1;recursiveResize=0;strokeWidth=1;autosize=1;spacing=4;" parent="1" vertex="1">
+          <mxGeometry x="807.5" y="426" width="78" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="xIv8xeVho2d32qd__GRO-98" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;fontSize=12;startSize=8;endSize=8;" parent="1" source="xIv8xeVho2d32qd__GRO-86" target="xIv8xeVho2d32qd__GRO-99" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="769.5" y="390" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xIv8xeVho2d32qd__GRO-99" value="3. copy and delete" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;collapsible=0;container=1;recursiveResize=0;strokeWidth=1;autosize=1;spacing=4;" parent="1" vertex="1">
+          <mxGeometry x="807.5" y="480" width="160" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="xIv8xeVho2d32qd__GRO-100" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;fontSize=12;startSize=8;endSize=8;" parent="1" source="xIv8xeVho2d32qd__GRO-29" target="xIv8xeVho2d32qd__GRO-101" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="222" y="-312" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xIv8xeVho2d32qd__GRO-101" value="4. name_patterner" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;collapsible=0;container=1;recursiveResize=0;strokeWidth=1;autosize=1;spacing=4;" parent="1" vertex="1">
+          <mxGeometry x="253.5" y="612" width="144" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="xIv8xeVho2d32qd__GRO-108" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;fontSize=12;startSize=8;endSize=8;" parent="1" source="xIv8xeVho2d32qd__GRO-101" target="xIv8xeVho2d32qd__GRO-109" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="238.5" y="-72" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xIv8xeVho2d32qd__GRO-109" value="1. normal_name_pattern" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;collapsible=0;container=1;recursiveResize=0;strokeWidth=1;autosize=1;spacing=4;" parent="1" vertex="1">
+          <mxGeometry x="419.5" y="612" width="180" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="xIv8xeVho2d32qd__GRO-110" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;fontSize=12;startSize=8;endSize=8;" parent="1" source="xIv8xeVho2d32qd__GRO-101" target="xIv8xeVho2d32qd__GRO-111" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="397.5" y="630" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xIv8xeVho2d32qd__GRO-111" value="2. rename_name_pattern" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;collapsible=0;container=1;recursiveResize=0;strokeWidth=1;autosize=1;spacing=4;" parent="1" vertex="1">
+          <mxGeometry x="419.5" y="658" width="186" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="xIv8xeVho2d32qd__GRO-112" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;fontSize=12;startSize=8;endSize=8;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="xIv8xeVho2d32qd__GRO-111" target="xIv8xeVho2d32qd__GRO-113" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="602.5" y="798" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xIv8xeVho2d32qd__GRO-113" value="1. match the file name with pattern" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;collapsible=0;container=1;recursiveResize=0;strokeWidth=1;autosize=1;spacing=4;" parent="1" vertex="1">
+          <mxGeometry x="667.5" y="756" width="240" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="xIv8xeVho2d32qd__GRO-114" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;fontSize=12;startSize=8;endSize=8;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="xIv8xeVho2d32qd__GRO-111" target="xIv8xeVho2d32qd__GRO-115" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="602.5" y="798" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xIv8xeVho2d32qd__GRO-115" value="2. Get the new pattern set by user" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;collapsible=0;container=1;recursiveResize=0;strokeWidth=1;autosize=1;spacing=4;" parent="1" vertex="1">
+          <mxGeometry x="667.5" y="802" width="240" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="xIv8xeVho2d32qd__GRO-116" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;fontSize=12;startSize=8;endSize=8;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="xIv8xeVho2d32qd__GRO-111" target="xIv8xeVho2d32qd__GRO-117" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="602.5" y="798" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xIv8xeVho2d32qd__GRO-117" value="3. Do the rename pattern for matched files/dirs" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;collapsible=0;container=1;recursiveResize=0;strokeWidth=1;autosize=1;spacing=4;" parent="1" vertex="1">
+          <mxGeometry x="667.5" y="852" width="318" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="xIv8xeVho2d32qd__GRO-118" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;fontSize=12;startSize=8;endSize=8;" parent="1" source="xIv8xeVho2d32qd__GRO-109" target="xIv8xeVho2d32qd__GRO-119" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="397.5" y="630" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xIv8xeVho2d32qd__GRO-119" value="1. filename.ext" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;collapsible=0;container=1;recursiveResize=0;strokeWidth=1;autosize=1;spacing=4;" parent="1" vertex="1">
+          <mxGeometry x="730.5" y="612" width="120" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="xIv8xeVho2d32qd__GRO-120" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;fontSize=12;startSize=8;endSize=8;" parent="1" source="xIv8xeVho2d32qd__GRO-109" target="xIv8xeVho2d32qd__GRO-121" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="599.5" y="630" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xIv8xeVho2d32qd__GRO-121" value="2. dir name" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;collapsible=0;container=1;recursiveResize=0;strokeWidth=1;autosize=1;spacing=4;" parent="1" vertex="1">
+          <mxGeometry x="730.5" y="658" width="96" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="xIv8xeVho2d32qd__GRO-122" value="Ext: 5. DSL pattern: Allow user to use dsl language to define actions on the moving &amp;amp;&amp;amp; renaming.&lt;br&gt;&lt;div&gt;For example:&lt;/div&gt;&lt;div&gt;1. IF this(file/dir) NAME MATCH&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;{glob pattern} (this(file/dir))&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;RENAME&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;PRFIX &quot;Hello_&quot;;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2. IF &lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;this(file&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;) CONTENT INCLUDE {&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&quot;best friend&quot;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;} RANGE (0,20) next(file) RENAME {calc(...),&quot;.txt&quot;}&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-636" y="90" width="693" height="198" as="geometry" />
+        </mxCell>
+        <mxCell id="hFF7QbqgLN0FO8L3YnS8-1" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;fontSize=12;startSize=8;endSize=8;" edge="1" target="hFF7QbqgLN0FO8L3YnS8-2" source="xIv8xeVho2d32qd__GRO-80" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="222" y="-312" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hFF7QbqgLN0FO8L3YnS8-2" value="1. file backup" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;collapsible=0;container=1;recursiveResize=0;strokeWidth=1;autosize=1;spacing=4;" vertex="1" parent="1">
+          <mxGeometry x="431" y="171" width="108" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="hFF7QbqgLN0FO8L3YnS8-3" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;fontSize=12;startSize=8;endSize=8;" edge="1" target="hFF7QbqgLN0FO8L3YnS8-4" source="hFF7QbqgLN0FO8L3YnS8-2" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="393" y="177" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hFF7QbqgLN0FO8L3YnS8-4" value="1. backup config" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;collapsible=0;container=1;recursiveResize=0;strokeWidth=1;autosize=1;spacing=4;" vertex="1" parent="1">
+          <mxGeometry x="569.5" y="108" width="132" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="hFF7QbqgLN0FO8L3YnS8-5" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;fontSize=12;startSize=8;endSize=8;" edge="1" target="hFF7QbqgLN0FO8L3YnS8-6" source="hFF7QbqgLN0FO8L3YnS8-4" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="539" y="189" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hFF7QbqgLN0FO8L3YnS8-6" value="1. store period" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;collapsible=0;container=1;recursiveResize=0;strokeWidth=1;autosize=1;spacing=4;" vertex="1" parent="1">
+          <mxGeometry x="747.5" y="108" width="120" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="hFF7QbqgLN0FO8L3YnS8-7" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;fontSize=12;startSize=8;endSize=8;" edge="1" target="hFF7QbqgLN0FO8L3YnS8-8" source="hFF7QbqgLN0FO8L3YnS8-4" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="702" y="126" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hFF7QbqgLN0FO8L3YnS8-8" value="2. store location" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;collapsible=0;container=1;recursiveResize=0;strokeWidth=1;autosize=1;spacing=4;" vertex="1" parent="1">
+          <mxGeometry x="747.5" y="154" width="126" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="hFF7QbqgLN0FO8L3YnS8-9" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;fontSize=12;startSize=8;endSize=8;" edge="1" target="hFF7QbqgLN0FO8L3YnS8-10" source="hFF7QbqgLN0FO8L3YnS8-2" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="369" y="90" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xIv8xeVho2d32qd__GRO-90" value="1. copy and rename" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;collapsible=0;container=1;recursiveResize=0;strokeWidth=1;autosize=1;spacing=4;" vertex="1" parent="1">
-          <mxGeometry x="552" y="258" width="150" height="36" as="geometry" />
+        <mxCell id="hFF7QbqgLN0FO8L3YnS8-10" value="2. backup operator" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;collapsible=0;container=1;recursiveResize=0;strokeWidth=1;autosize=1;spacing=4;" vertex="1" parent="1">
+          <mxGeometry x="564" y="216" width="144" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="xIv8xeVho2d32qd__GRO-91" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;fontSize=12;startSize=8;endSize=8;" edge="1" target="xIv8xeVho2d32qd__GRO-92" source="xIv8xeVho2d32qd__GRO-84" parent="1">
+        <mxCell id="hFF7QbqgLN0FO8L3YnS8-11" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;fontSize=12;startSize=8;endSize=8;" edge="1" target="hFF7QbqgLN0FO8L3YnS8-12" source="hFF7QbqgLN0FO8L3YnS8-10" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="518" y="276" as="sourcePoint" />
+            <mxPoint x="539" y="189" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xIv8xeVho2d32qd__GRO-92" value="2. Rename directly" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;collapsible=0;container=1;recursiveResize=0;strokeWidth=1;autosize=1;spacing=4;" vertex="1" parent="1">
-          <mxGeometry x="552" y="304" width="144" height="36" as="geometry" />
+        <mxCell id="hFF7QbqgLN0FO8L3YnS8-12" value="1. backup" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;collapsible=0;container=1;recursiveResize=0;strokeWidth=1;autosize=1;spacing=4;" vertex="1" parent="1">
+          <mxGeometry x="775" y="216" width="90" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="xIv8xeVho2d32qd__GRO-93" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;fontSize=12;startSize=8;endSize=8;" edge="1" target="xIv8xeVho2d32qd__GRO-94" source="xIv8xeVho2d32qd__GRO-86" parent="1">
+        <mxCell id="hFF7QbqgLN0FO8L3YnS8-13" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;fontSize=12;startSize=8;endSize=8;" edge="1" target="hFF7QbqgLN0FO8L3YnS8-14" source="hFF7QbqgLN0FO8L3YnS8-10" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="428.5" y="150" as="sourcePoint" />
+            <mxPoint x="708" y="234" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xIv8xeVho2d32qd__GRO-94" value="1. copy" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;collapsible=0;container=1;recursiveResize=0;strokeWidth=1;autosize=1;spacing=4;" vertex="1" parent="1">
-          <mxGeometry x="793.5" y="132" width="82.5" height="36" as="geometry" />
+        <mxCell id="hFF7QbqgLN0FO8L3YnS8-14" value="2. restore" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;collapsible=0;container=1;recursiveResize=0;strokeWidth=1;autosize=1;spacing=4;" vertex="1" parent="1">
+          <mxGeometry x="778" y="262" width="84" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="xIv8xeVho2d32qd__GRO-96" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;fontSize=12;startSize=8;endSize=8;" edge="1" target="xIv8xeVho2d32qd__GRO-97" source="xIv8xeVho2d32qd__GRO-86" parent="1">
+        <mxCell id="hFF7QbqgLN0FO8L3YnS8-15" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;fontSize=12;startSize=8;endSize=8;" edge="1" target="hFF7QbqgLN0FO8L3YnS8-16" source="hFF7QbqgLN0FO8L3YnS8-10" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="753" y="150" as="sourcePoint" />
+            <mxPoint x="708" y="234" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xIv8xeVho2d32qd__GRO-97" value="2. move" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;collapsible=0;container=1;recursiveResize=0;strokeWidth=1;autosize=1;spacing=4;" vertex="1" parent="1">
-          <mxGeometry x="791" y="186" width="78" height="36" as="geometry" />
-        </mxCell>
-        <mxCell id="xIv8xeVho2d32qd__GRO-98" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;fontSize=12;startSize=8;endSize=8;" edge="1" target="xIv8xeVho2d32qd__GRO-99" source="xIv8xeVho2d32qd__GRO-86" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="753" y="150" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="xIv8xeVho2d32qd__GRO-99" value="3. copy and delete" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;collapsible=0;container=1;recursiveResize=0;strokeWidth=1;autosize=1;spacing=4;" vertex="1" parent="1">
-          <mxGeometry x="791" y="240" width="160" height="36" as="geometry" />
-        </mxCell>
-        <mxCell id="xIv8xeVho2d32qd__GRO-100" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;fontSize=12;startSize=8;endSize=8;" edge="1" target="xIv8xeVho2d32qd__GRO-101" source="xIv8xeVho2d32qd__GRO-29" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="222" y="-312" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="xIv8xeVho2d32qd__GRO-101" value="4. name_patterner" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;collapsible=0;container=1;recursiveResize=0;strokeWidth=1;autosize=1;spacing=4;" vertex="1" parent="1">
-          <mxGeometry x="237" y="372" width="144" height="36" as="geometry" />
-        </mxCell>
-        <mxCell id="xIv8xeVho2d32qd__GRO-108" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;fontSize=12;startSize=8;endSize=8;" edge="1" target="xIv8xeVho2d32qd__GRO-109" source="xIv8xeVho2d32qd__GRO-101" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="222" y="-312" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="xIv8xeVho2d32qd__GRO-109" value="1. normal_name_pattern" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;collapsible=0;container=1;recursiveResize=0;strokeWidth=1;autosize=1;spacing=4;" vertex="1" parent="1">
-          <mxGeometry x="403" y="372" width="180" height="36" as="geometry" />
-        </mxCell>
-        <mxCell id="xIv8xeVho2d32qd__GRO-110" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;fontSize=12;startSize=8;endSize=8;" edge="1" target="xIv8xeVho2d32qd__GRO-111" source="xIv8xeVho2d32qd__GRO-101" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="381" y="390" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="xIv8xeVho2d32qd__GRO-111" value="2. rename_name_pattern" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;collapsible=0;container=1;recursiveResize=0;strokeWidth=1;autosize=1;spacing=4;" vertex="1" parent="1">
-          <mxGeometry x="403" y="418" width="186" height="36" as="geometry" />
-        </mxCell>
-        <mxCell id="xIv8xeVho2d32qd__GRO-112" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;fontSize=12;startSize=8;endSize=8;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" target="xIv8xeVho2d32qd__GRO-113" source="xIv8xeVho2d32qd__GRO-111">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="586" y="558" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="xIv8xeVho2d32qd__GRO-113" value="1. match the file name with pattern" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;collapsible=0;container=1;recursiveResize=0;strokeWidth=1;autosize=1;spacing=4;" vertex="1" parent="1">
-          <mxGeometry x="651" y="516" width="240" height="36" as="geometry" />
-        </mxCell>
-        <mxCell id="xIv8xeVho2d32qd__GRO-114" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;fontSize=12;startSize=8;endSize=8;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" target="xIv8xeVho2d32qd__GRO-115" source="xIv8xeVho2d32qd__GRO-111">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="586" y="558" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="xIv8xeVho2d32qd__GRO-115" value="2. Get the new pattern set by user" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;collapsible=0;container=1;recursiveResize=0;strokeWidth=1;autosize=1;spacing=4;" vertex="1" parent="1">
-          <mxGeometry x="651" y="562" width="240" height="36" as="geometry" />
-        </mxCell>
-        <mxCell id="xIv8xeVho2d32qd__GRO-116" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;fontSize=12;startSize=8;endSize=8;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" target="xIv8xeVho2d32qd__GRO-117" source="xIv8xeVho2d32qd__GRO-111">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="586" y="558" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="xIv8xeVho2d32qd__GRO-117" value="3. Do the rename pattern for matched files/dirs" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;collapsible=0;container=1;recursiveResize=0;strokeWidth=1;autosize=1;spacing=4;" vertex="1" parent="1">
-          <mxGeometry x="651" y="612" width="318" height="36" as="geometry" />
-        </mxCell>
-        <mxCell id="xIv8xeVho2d32qd__GRO-118" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;fontSize=12;startSize=8;endSize=8;" edge="1" target="xIv8xeVho2d32qd__GRO-119" source="xIv8xeVho2d32qd__GRO-109" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="381" y="390" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="xIv8xeVho2d32qd__GRO-119" value="1. filename.ext" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;collapsible=0;container=1;recursiveResize=0;strokeWidth=1;autosize=1;spacing=4;" vertex="1" parent="1">
-          <mxGeometry x="714" y="372" width="120" height="36" as="geometry" />
-        </mxCell>
-        <mxCell id="xIv8xeVho2d32qd__GRO-120" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;fontSize=12;startSize=8;endSize=8;" edge="1" target="xIv8xeVho2d32qd__GRO-121" source="xIv8xeVho2d32qd__GRO-109" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="583" y="390" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="xIv8xeVho2d32qd__GRO-121" value="2. dir name" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;collapsible=0;container=1;recursiveResize=0;strokeWidth=1;autosize=1;spacing=4;" vertex="1" parent="1">
-          <mxGeometry x="714" y="418" width="96" height="36" as="geometry" />
-        </mxCell>
-        <mxCell id="xIv8xeVho2d32qd__GRO-122" value="Ext: 5. DSL pattern: Allow user to use dsl language to define actions on the moving &amp;amp;&amp;amp; renaming.&lt;br&gt;&lt;div&gt;For example:&lt;/div&gt;&lt;div&gt;1. IF this(file/dir) NAME MATCH&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;{glob pattern} (this(file/dir))&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;RENAME&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;PRFIX &quot;Hello_&quot;;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2. IF &lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;this(file&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;) CONTENT INCLUDE {&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&quot;best friend&quot;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;} RANGE (0,20) next(file) RENAME {calc(...),&quot;.txt&quot;}&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="174" y="702" width="693" height="198" as="geometry" />
+        <mxCell id="hFF7QbqgLN0FO8L3YnS8-16" value="3. outdate file delete" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;collapsible=0;container=1;recursiveResize=0;strokeWidth=1;autosize=1;spacing=4;" vertex="1" parent="1">
+          <mxGeometry x="775" y="312" width="156" height="36" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
