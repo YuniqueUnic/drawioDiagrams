@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0" version="26.1.0">
   <diagram name="Page-1" id="e56a1550-8fbb-45ad-956c-1786394a9013">
-    <mxGraphModel dx="749" dy="1165" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4000" pageHeight="3000" background="none" math="1" shadow="0">
+    <mxGraphModel dx="1373" dy="1664" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4000" pageHeight="3000" background="none" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -523,7 +523,7 @@
         <mxCell id="qqQm_-7obCb55XibHXTq-15" value="Register ( identity, identity_type, amount_WZT )" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="4225" y="646" width="280" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="qqQm_-7obCb55XibHXTq-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qqQm_-7obCb55XibHXTq-17" target="qqQm_-7obCb55XibHXTq-19">
+        <mxCell id="qqQm_-7obCb55XibHXTq-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="qqQm_-7obCb55XibHXTq-17" target="qqQm_-7obCb55XibHXTq-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qqQm_-7obCb55XibHXTq-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=8 8;" edge="1" parent="1" source="qqQm_-7obCb55XibHXTq-17" target="qqQm_-7obCb55XibHXTq-21">
@@ -538,7 +538,7 @@
         <mxCell id="qqQm_-7obCb55XibHXTq-19" value="identity_account_PDA ( b&#39;identity&#39; + identity_pub + index )" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="4700" y="720" width="330" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="qqQm_-7obCb55XibHXTq-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qqQm_-7obCb55XibHXTq-21" target="qqQm_-7obCb55XibHXTq-26">
+        <mxCell id="qqQm_-7obCb55XibHXTq-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="qqQm_-7obCb55XibHXTq-21" target="qqQm_-7obCb55XibHXTq-26">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="4620" y="785" as="targetPoint" />
           </mxGeometry>
@@ -554,7 +554,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="qqQm_-7obCb55XibHXTq-26" value="identity_account_pda_ATA ( identity_account_pda + associated_program )&lt;div&gt;authority ( identity )&lt;/div&gt;&lt;div&gt;approve (&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;helios, amount_WZT )&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="4655" y="804" width="420" height="60" as="geometry" />
+          <mxGeometry x="4655" y="805" width="420" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qqQm_-7obCb55XibHXTq-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=oval;endFill=0;dashed=1;" edge="1" parent="1" source="qqQm_-7obCb55XibHXTq-33" target="qqQm_-7obCb55XibHXTq-36">
           <mxGeometry relative="1" as="geometry" />
