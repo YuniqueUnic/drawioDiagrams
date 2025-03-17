@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0" version="26.1.0">
   <diagram name="Page-1" id="e56a1550-8fbb-45ad-956c-1786394a9013">
-    <mxGraphModel dx="713" dy="1110" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4000" pageHeight="3000" background="none" math="1" shadow="0">
+    <mxGraphModel dx="624" dy="971" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4000" pageHeight="3000" background="none" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -511,6 +511,9 @@
         <mxCell id="qqQm_-7obCb55XibHXTq-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qqQm_-7obCb55XibHXTq-11" target="qqQm_-7obCb55XibHXTq-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="qqQm_-7obCb55XibHXTq-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=oval;endFill=0;" edge="1" parent="1" source="qqQm_-7obCb55XibHXTq-11" target="qqQm_-7obCb55XibHXTq-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="qqQm_-7obCb55XibHXTq-11" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Registry&lt;/b&gt;&lt;/font&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="4310" y="522.5" width="110" height="85" as="geometry" />
         </mxCell>
@@ -553,17 +556,60 @@
         <mxCell id="qqQm_-7obCb55XibHXTq-26" value="identity_account_pda_ATA ( identity_account_pda + associated_program )&lt;div&gt;authority ( identity )&lt;/div&gt;&lt;div&gt;approve (&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;helios, amount_WZT )&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="4655" y="804" width="420" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qqQm_-7obCb55XibHXTq-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qqQm_-7obCb55XibHXTq-33" target="qqQm_-7obCb55XibHXTq-36">
+        <mxCell id="qqQm_-7obCb55XibHXTq-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=oval;endFill=0;dashed=1;" edge="1" parent="1" source="qqQm_-7obCb55XibHXTq-33" target="qqQm_-7obCb55XibHXTq-36">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qqQm_-7obCb55XibHXTq-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qqQm_-7obCb55XibHXTq-33" target="qqQm_-7obCb55XibHXTq-44">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="4060" y="1080" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="qqQm_-7obCb55XibHXTq-33" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Helios&lt;/b&gt;&lt;/font&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="3970" y="925" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="qqQm_-7obCb55XibHXTq-36" value="&lt;div style=&quot;forced-color-adjust: none;&quot;&gt;&lt;span style=&quot;forced-color-adjust: none; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Fields:&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;forced-color-adjust: none;&quot;&gt;1. promises[consumer_identity][provider_identity] -&amp;gt; promise_struct&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;forced-color-adjust: none;&quot;&gt;{ promise_id, settled_amount, staked_amount, last_nonce, start_time, time_lock, ... }&lt;/div&gt;&lt;div style=&quot;forced-color-adjust: none;&quot;&gt;&lt;br style=&quot;forced-color-adjust: none;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;forced-color-adjust: none;&quot;&gt;2. autority : ( operator )&lt;/div&gt;&lt;div style=&quot;forced-color-adjust: none;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;forced-color-adjust: none;&quot;&gt;3.&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;forced-color-adjust: none;&quot;&gt;&lt;br style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3450" y="895" width="460" height="140" as="geometry" />
+        <mxCell id="qqQm_-7obCb55XibHXTq-36" value="&lt;div style=&quot;forced-color-adjust: none;&quot;&gt;&lt;span style=&quot;forced-color-adjust: none; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Fields:&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;forced-color-adjust: none;&quot;&gt;&lt;span style=&quot;forced-color-adjust: none; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;forced-color-adjust: none;&quot;&gt;1. promises[consumer_identity][provider_identity] -&amp;gt; promise_struct&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;forced-color-adjust: none;&quot;&gt;{ promise_id, settled_amount, staked_amount, last_nonce, start_time, time_lock, ... }&lt;/div&gt;&lt;div style=&quot;forced-color-adjust: none;&quot;&gt;2. autority : ( operator )&lt;/div&gt;&lt;div style=&quot;forced-color-adjust: none;&quot;&gt;3.&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;forced-color-adjust: none;&quot;&gt;&lt;br style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3445" y="917.5" width="460" height="95" as="geometry" />
         </mxCell>
-        <mxCell id="qqQm_-7obCb55XibHXTq-38" value="&lt;div style=&quot;forced-color-adjust: none;&quot;&gt;&lt;span style=&quot;forced-color-adjust: none; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Fields:&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;forced-color-adjust: none;&quot;&gt;1. identities[identity] -&amp;gt; identity_struct { identity_pub, type, staked, ... }&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="4460" y="506" width="380" height="140" as="geometry" />
+        <mxCell id="qqQm_-7obCb55XibHXTq-38" value="&lt;div style=&quot;forced-color-adjust: none;&quot;&gt;&lt;span style=&quot;forced-color-adjust: none; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Fields:&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;forced-color-adjust: none;&quot;&gt;1. identities[identity] -&amp;gt; identity_struct { identity_pub, type, staked, ... }&lt;/div&gt;&lt;div style=&quot;forced-color-adjust: none;&quot;&gt;2. stake_struct { min_amount, max_amount )&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4500" y="533" width="380" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="qqQm_-7obCb55XibHXTq-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qqQm_-7obCb55XibHXTq-44" target="qqQm_-7obCb55XibHXTq-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qqQm_-7obCb55XibHXTq-44" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;create_promise ( consumer_identity, provider_identity, amount_stake, time_lock, preimage, signature )&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="3767.5" y="1082" width="525" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="qqQm_-7obCb55XibHXTq-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qqQm_-7obCb55XibHXTq-45" target="qqQm_-7obCb55XibHXTq-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qqQm_-7obCb55XibHXTq-45" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;_verify_signature( consumer_identity, provider_identity, amount_stake, time_lock, preimage, signature ) -&amp;gt; Result&amp;lt;()&amp;gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="3738.5" y="1150" width="582.5" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="qqQm_-7obCb55XibHXTq-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=8 8;" edge="1" parent="1" source="qqQm_-7obCb55XibHXTq-47" target="qqQm_-7obCb55XibHXTq-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qqQm_-7obCb55XibHXTq-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qqQm_-7obCb55XibHXTq-47" target="qqQm_-7obCb55XibHXTq-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qqQm_-7obCb55XibHXTq-55" value="transfer wzt from identity_account_pda_ATA to promise_contract_pad_ATA&amp;nbsp; by helios cpi" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=2;fontColor=#D9D9D9;" vertex="1" connectable="0" parent="qqQm_-7obCb55XibHXTq-52">
+          <mxGeometry x="-0.3276" y="2" relative="1" as="geometry">
+            <mxPoint x="-2" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qqQm_-7obCb55XibHXTq-47" value="&lt;span style=&quot;font-size: 11px; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;_creat_promise_contract ( consumer_identity, provider_identity, amount_stake, time_lockl )&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="3946.94" y="1210" width="165.63" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="qqQm_-7obCb55XibHXTq-49" value="&lt;span style=&quot;font-size: 11px; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;promise_contract_pda ( seeds ( b&#39;promise&#39; + consumer_pub + provider_pub ), bump )&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="3320" y="1210" width="422.75" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="qqQm_-7obCb55XibHXTq-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=8 8;" edge="1" parent="1" source="qqQm_-7obCb55XibHXTq-51" target="qqQm_-7obCb55XibHXTq-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qqQm_-7obCb55XibHXTq-51" value="&lt;span style=&quot;font-size: 11px; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;_transfer_wzt( promise_contract_pda, amount_stake )&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="3893.2200000000003" y="1290" width="273.06" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="qqQm_-7obCb55XibHXTq-53" value="&lt;span style=&quot;font-size: 11px; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;promise_contract_pda_ATA ( promise_contract_pda, associated_program )&amp;nbsp;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="3362.75" y="1290" width="380" height="32" as="geometry" />
         </mxCell>
         <mxCell id="VsVcQcCOclfDHJGfPfXY-202" value="Code" parent="0" />
         <mxCell id="VsVcQcCOclfDHJGfPfXY-267" value="" style="group" parent="VsVcQcCOclfDHJGfPfXY-202" vertex="1" connectable="0">
