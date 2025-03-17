@@ -648,6 +648,9 @@
         <mxCell id="qqQm_-7obCb55XibHXTq-68" value="beneficary_ata ( token_mint_wzt )" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="3550" y="1650" width="200" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="qqQm_-7obCb55XibHXTq-70" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Token_mint_WZT&lt;/b&gt;&lt;/span&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="4220" y="270" width="200" height="130" as="geometry" />
+        </mxCell>
         <mxCell id="VsVcQcCOclfDHJGfPfXY-202" value="Code" parent="0" />
         <mxCell id="VsVcQcCOclfDHJGfPfXY-267" value="" style="group" parent="VsVcQcCOclfDHJGfPfXY-202" vertex="1" connectable="0">
           <mxGeometry x="6250" y="2360" width="1684" height="1703" as="geometry" />
